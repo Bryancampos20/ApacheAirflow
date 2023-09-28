@@ -1,6 +1,6 @@
 # Apache Airflow HelloWorld DAG
 
-¡Hola a todos! 👋
+Hello, everyone! 👋
 
 My name is Bryan Campos Castro, and I am a computer engineer currently working as a full-stack developer.
 
