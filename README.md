@@ -2,10 +2,9 @@
 
 ¡Hola a todos! 👋
 
-Mi nombre es Bryan Campos Castro y soy ingeniero en computacion y actualmente trabajo como full-stack developer
+My name is Bryan Campos Castro, and I am a computer engineer currently working as a full-stack developer.
 
-
-## Acerca de proyecto
+## About the Project
 
 This project demonstrates how to create a simple workflow using Apache Airflow. The workflow consists of three tasks: a start task **(Start_task)**, a task that prints "Hello, world!" to the console **(Hello_task)**, and an end task **(End_task)**.
 
@@ -39,16 +38,22 @@ docker-compose -f docker-compose-LocalExecutor.yml up -d
 
 ## Results
 
-- Dashboard
 
 This is the dashboard where you can see the DAG before it is executed.
 
+![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/dashboard.png)
+
 This is the graphical view where we can see that it executed successfully.
+
+![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/graph.png)
 
 These are the logs for (Hello_task).
 
+![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/logs.png)
+
 Finally, this is the dashboard view after it has executed successfully.
 
+![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/result.png)
 
 This is a basic example of how we can run a HelloWorld in Apache Airflow.
 
