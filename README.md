@@ -25,7 +25,7 @@ Before running this workflow, make sure you have the following requirements inst
 
 ## Execution
 
-1. Download the file containing the foundation for running Apache Airflow in Docker from this link: https://github.com/puckel/docker-airflow.
+1. Download the architecture from this link: https://github.com/puckel/docker-airflow.
 2. After installing Apache Airflow in your project by running the following command:
 ```bash
 docker pull puckel/docker-airflow
